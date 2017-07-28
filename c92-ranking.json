@@ -1,1 +1,1 @@
-{ "ranking": [ { "wc_id": 13314443, "favorite_number": 1 }, { "wc_id": 13323420, "favorite_number": 1 }, { "wc_id": 13323544, "favorite_number": 1 } ] }
+{ "ranking": [ { "wc_id": 13314443, "favorite_number": 1, "date_id": 3, "genre_id": 46 }, { "wc_id": 13323420, "favorite_number": 1, "date_id": 1, "genre_id": 20 }, { "wc_id": 13323544, "favorite_number": 1, "date_id": 3, "genre_id": 46 } ] }
